@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyDependencyInjection</string>
+    <string name="jumlahkan">Jumlahkan</string>
+    <string name="angka_2">Angka 2</string>
+    <string name="angka_1">Angka 1</string>
+    <string name="nilai">Nilai</string>
+    <string name="konversi">Konversi</string>
+</resources>
